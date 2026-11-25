@@ -1,0 +1,38 @@
+# Do not send local private records, uploads, raw datasets, or generated research output.
+/cervical_records.db*
+/storage/
+/dataset/
+/data/*
+!/data/facilities.json
+/*.jpg
+/*.jpeg
+/*.png
+/*.pdf
+/*.ipynb
+
+# Training and legacy application code is not part of the deployed API.
+/api_phase1_backup.py
+/app.py
+/app_backup.py
+/train_*.py
+/phase2_model.py
+/gradcam*.py
+/review*.py
+/confusion_matrix.py
+/make_split.py
+/scripts/
+/tests/
+/requirements-test.txt
+/docs/
+/render.yaml
+
+# Build, cache, and local development artifacts.
+.vercel/
+**/node_modules/
+**/dist/
+**/__pycache__/
+**/.venv/
+**/venv/
+**/.env
+**/.env.*
+!**/.env.example

@@ -1,0 +1,2 @@
+# Backend runtime dependencies are pinned once in the root Vercel requirements file.
+-r requirements.txt

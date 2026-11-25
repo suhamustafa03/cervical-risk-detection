@@ -1,0 +1,6 @@
+streamlit>=1.36
+requests>=2.31
+plotly>=5.20
+opencv-python>=4.8
+Pillow>=10.0
+numpy>=1.26

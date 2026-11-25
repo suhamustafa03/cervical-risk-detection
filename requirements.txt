@@ -1,0 +1,18 @@
+# Vercel's Python service runs on Linux; use the CPU-only wheel index to avoid CUDA.
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+fastapi==0.115.12
+uvicorn==0.34.0
+python-multipart==0.0.20
+pydantic==2.11.7
+SQLAlchemy==2.0.41
+psycopg[binary]==3.2.9
+numpy==1.26.4; python_version < "3.13"
+numpy==2.2.6; python_version >= "3.13"
+Pillow==11.2.1
+opencv-python-headless==4.11.0.86
+torch==2.7.1+cpu; sys_platform == "linux"
+torchvision==0.22.1+cpu; sys_platform == "linux"
+torch==2.7.1; sys_platform == "darwin"
+torchvision==0.22.1; sys_platform == "darwin"
+vercel-blob==0.5.0

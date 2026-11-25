@@ -1,0 +1,154 @@
+[
+  {
+    "id": "fac-001",
+    "name": "All India Institute of Medical Sciences (AIIMS)",
+    "type": "Government Tertiary Hospital",
+    "address": "Sri Aurobindo Marg, Ansari Nagar",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": "110029",
+    "phone": "+91-11-26588500",
+    "website": "https://www.aiims.edu",
+    "specialities": [
+      "Gynaecologic Oncology",
+      "Colposcopy Clinic",
+      "Cervical Cancer Screening"
+    ],
+    "lat": 28.5672,
+    "lng": 77.2100,
+    "verified": true
+  },
+  {
+    "id": "fac-002",
+    "name": "Tata Memorial Hospital (TMC)",
+    "type": "Autonomous Cancer Institute",
+    "address": "Dr. Ernest Borges Road, Parel",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400012",
+    "phone": "+91-22-24177000",
+    "website": "https://tmc.gov.in",
+    "specialities": [
+      "Gynaecologic Oncology",
+      "Colposcopy Clinic",
+      "Preventive Oncology"
+    ],
+    "lat": 19.0048,
+    "lng": 72.8431,
+    "verified": true
+  },
+  {
+    "id": "fac-003",
+    "name": "Postgraduate Institute of Medical Education and Research (PGIMER)",
+    "type": "Government Tertiary Hospital",
+    "address": "Sector 12",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "pincode": "160012",
+    "phone": "+91-172-2746018",
+    "website": "https://pgimer.edu.in",
+    "specialities": [
+      "Obstetrics & Gynaecology",
+      "Colposcopy Clinic",
+      "Cytology Screening"
+    ],
+    "lat": 30.7656,
+    "lng": 76.7745,
+    "verified": true
+  },
+  {
+    "id": "fac-004",
+    "name": "Kidwai Memorial Institute of Oncology",
+    "type": "Regional Cancer Centre",
+    "address": "Dr. M. H. Marigowda Road",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560029",
+    "phone": "+91-80-26094000",
+    "website": "https://kmio.karnataka.gov.in",
+    "specialities": [
+      "Gynaecologic Oncology",
+      "Colposcopy",
+      "Early Cancer Detection"
+    ],
+    "lat": 12.9392,
+    "lng": 77.5925,
+    "verified": true
+  },
+  {
+    "id": "fac-005",
+    "name": "Cancer Institute (WIA) Adyar",
+    "type": "Autonomous Cancer Institute",
+    "address": "Sardar Patel Road, Adyar",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600036",
+    "phone": "+91-44-22209150",
+    "website": "https://cancerinstitutewia.in",
+    "specialities": [
+      "Gynaecologic Oncology",
+      "Colposcopy",
+      "Preventive Oncology"
+    ],
+    "lat": 13.0067,
+    "lng": 80.2443,
+    "verified": true
+  },
+  {
+    "id": "fac-006",
+    "name": "Chittaranjan National Cancer Institute (CNCI)",
+    "type": "Regional Cancer Centre",
+    "address": "37, S. P. Mukherjee Road",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700026",
+    "phone": "+91-33-24765101",
+    "website": "https://cnci.ac.in",
+    "specialities": [
+      "Gynaecologic Oncology",
+      "Colposcopy",
+      "Cancer Screening"
+    ],
+    "lat": 22.5186,
+    "lng": 88.3496,
+    "verified": true
+  },
+  {
+    "id": "fac-007",
+    "name": "Christian Medical College (CMC)",
+    "type": "Tertiary Teaching Hospital",
+    "address": "Ida Scudder Road",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632004",
+    "phone": "+91-416-2281000",
+    "website": "https://www.cmch-vellore.edu",
+    "specialities": [
+      "Gynaecology",
+      "Colposcopy Clinic",
+      "Cervical Pathology"
+    ],
+    "lat": 12.9246,
+    "lng": 79.1350,
+    "verified": true
+  },
+  {
+    "id": "fac-008",
+    "name": "King George's Medical University (KGMU)",
+    "type": "Government Medical University Hospital",
+    "address": "Shah Mina Road, Chowk",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "pincode": "226003",
+    "phone": "+91-522-2257540",
+    "website": "https://www.kgmu.org",
+    "specialities": [
+      "Obstetrics & Gynaecology",
+      "Colposcopy",
+      "Preventive Oncology"
+    ],
+    "lat": 26.8687,
+    "lng": 80.9135,
+    "verified": true
+  }
+]

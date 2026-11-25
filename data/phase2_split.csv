@@ -1,0 +1,934 @@
+image_id,patient_id,sequence_index,image_width,image_height,magnification,patient_tz_type,patient_findings,patient_clinical_notes,split
+MUP_001_IMG_01.jpg,MUP_001,1,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_02.jpg,MUP_001,2,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_03.jpg,MUP_001,3,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_04.jpg,MUP_001,4,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_05.jpg,MUP_001,5,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_06.jpg,MUP_001,6,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_07.jpg,MUP_001,7,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_08.jpg,MUP_001,8,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_09.jpg,MUP_001,9,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_10.jpg,MUP_001,10,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_11.jpg,MUP_001,11,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_12.jpg,MUP_001,12,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_13.jpg,MUP_001,13,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_14.jpg,MUP_001,14,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_15.jpg,MUP_001,15,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_16.jpg,MUP_001,16,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_17.jpg,MUP_001,17,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_18.jpg,MUP_001,18,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_19.jpg,MUP_001,19,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_20.jpg,MUP_001,20,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_21.jpg,MUP_001,21,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_22.jpg,MUP_001,22,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_23.jpg,MUP_001,23,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_24.jpg,MUP_001,24,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_25.jpg,MUP_001,25,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_26.jpg,MUP_001,26,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_27.jpg,MUP_001,27,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_28.jpg,MUP_001,28,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_29.jpg,MUP_001,29,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_30.jpg,MUP_001,30,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_31.jpg,MUP_001,31,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_32.jpg,MUP_001,32,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_33.jpg,MUP_001,33,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_34.jpg,MUP_001,34,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_35.jpg,MUP_001,35,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_36.jpg,MUP_001,36,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_37.jpg,MUP_001,37,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_38.jpg,MUP_001,38,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_39.jpg,MUP_001,39,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_001_IMG_40.jpg,MUP_001,40,1280,960,standard,Type 1,Ovula Nabothi; Polyp; Vessels,,train
+MUP_002_IMG_01.jpg,MUP_002,1,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_02.jpg,MUP_002,2,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_03.jpg,MUP_002,3,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_04.jpg,MUP_002,4,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_05.jpg,MUP_002,5,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_06.jpg,MUP_002,6,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_07.jpg,MUP_002,7,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_08.jpg,MUP_002,8,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_09.jpg,MUP_002,9,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_10.jpg,MUP_002,10,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_11.jpg,MUP_002,11,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_12.jpg,MUP_002,12,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_13.jpg,MUP_002,13,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_14.jpg,MUP_002,14,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_15.jpg,MUP_002,15,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_16.jpg,MUP_002,16,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_17.jpg,MUP_002,17,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_18.jpg,MUP_002,18,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_19.jpg,MUP_002,19,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_20.jpg,MUP_002,20,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_21.jpg,MUP_002,21,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_22.jpg,MUP_002,22,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_23.jpg,MUP_002,23,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_24.jpg,MUP_002,24,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_25.jpg,MUP_002,25,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_26.jpg,MUP_002,26,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_27.jpg,MUP_002,27,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_28.jpg,MUP_002,28,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_29.jpg,MUP_002,29,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_30.jpg,MUP_002,30,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_31.jpg,MUP_002,31,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_32.jpg,MUP_002,32,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_33.jpg,MUP_002,33,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_34.jpg,MUP_002,34,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_35.jpg,MUP_002,35,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_36.jpg,MUP_002,36,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_37.jpg,MUP_002,37,1280,960,standard,Type 1,zona glandularia,,train
+MUP_002_IMG_38.jpg,MUP_002,38,1280,960,standard,Type 1,zona glandularia,,train
+MUP_003_IMG_01.jpg,MUP_003,1,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_02.jpg,MUP_003,2,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_03.jpg,MUP_003,3,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_04.jpg,MUP_003,4,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_05.jpg,MUP_003,5,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_06.jpg,MUP_003,6,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_07.jpg,MUP_003,7,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_08.jpg,MUP_003,8,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_09.jpg,MUP_003,9,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_10.jpg,MUP_003,10,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_11.jpg,MUP_003,11,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_12.jpg,MUP_003,12,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_13.jpg,MUP_003,13,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_14.jpg,MUP_003,14,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_15.jpg,MUP_003,15,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_16.jpg,MUP_003,16,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_17.jpg,MUP_003,17,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_18.jpg,MUP_003,18,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_19.jpg,MUP_003,19,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_003_IMG_20.jpg,MUP_003,20,1280,960,standard,Type 3,,Forceps in view; Mucus,train
+MUP_004_IMG_01.jpg,MUP_004,1,1280,960,standard,Type 2,,,train
+MUP_004_IMG_02.jpg,MUP_004,2,1280,960,standard,Type 2,,,train
+MUP_004_IMG_03.jpg,MUP_004,3,1280,960,standard,Type 2,,,train
+MUP_004_IMG_04.jpg,MUP_004,4,1280,960,standard,Type 2,,,train
+MUP_004_IMG_05.jpg,MUP_004,5,1280,960,standard,Type 2,,,train
+MUP_004_IMG_06.jpg,MUP_004,6,1280,960,standard,Type 2,,,train
+MUP_004_IMG_07.jpg,MUP_004,7,1280,960,standard,Type 2,,,train
+MUP_004_IMG_08.jpg,MUP_004,8,1280,960,standard,Type 2,,,train
+MUP_004_IMG_09.jpg,MUP_004,9,1280,960,standard,Type 2,,,train
+MUP_004_IMG_10.jpg,MUP_004,10,1280,960,standard,Type 2,,,train
+MUP_004_IMG_11.jpg,MUP_004,11,1280,960,standard,Type 2,,,train
+MUP_004_IMG_12.jpg,MUP_004,12,1280,960,standard,Type 2,,,train
+MUP_004_IMG_13.jpg,MUP_004,13,1280,960,standard,Type 2,,,train
+MUP_004_IMG_14.jpg,MUP_004,14,1280,960,standard,Type 2,,,train
+MUP_004_IMG_15.jpg,MUP_004,15,1280,960,standard,Type 2,,,train
+MUP_004_IMG_16.jpg,MUP_004,16,1280,960,standard,Type 2,,,train
+MUP_004_IMG_17.jpg,MUP_004,17,1280,960,standard,Type 2,,,train
+MUP_004_IMG_18.jpg,MUP_004,18,1280,960,standard,Type 2,,,train
+MUP_004_IMG_19.jpg,MUP_004,19,1280,960,standard,Type 2,,,train
+MUP_004_IMG_20.jpg,MUP_004,20,1280,960,standard,Type 2,,,train
+MUP_004_IMG_21.jpg,MUP_004,21,1280,960,standard,Type 2,,,train
+MUP_004_IMG_22.jpg,MUP_004,22,1280,960,standard,Type 2,,,train
+MUP_004_IMG_23.jpg,MUP_004,23,1280,960,standard,Type 2,,,train
+MUP_004_IMG_24.jpg,MUP_004,24,1280,960,standard,Type 2,,,train
+MUP_004_IMG_25.jpg,MUP_004,25,1280,960,standard,Type 2,,,train
+MUP_004_IMG_26.jpg,MUP_004,26,1280,960,standard,Type 2,,,train
+MUP_004_IMG_27.jpg,MUP_004,27,1280,960,standard,Type 2,,,train
+MUP_004_IMG_28.jpg,MUP_004,28,1280,960,standard,Type 2,,,train
+MUP_004_IMG_29.jpg,MUP_004,29,1280,960,standard,Type 2,,,train
+MUP_004_IMG_30.jpg,MUP_004,30,1280,960,standard,Type 2,,,train
+MUP_004_IMG_31.jpg,MUP_004,31,1280,960,standard,Type 2,,,train
+MUP_004_IMG_32.jpg,MUP_004,32,1280,960,standard,Type 2,,,train
+MUP_004_IMG_33.jpg,MUP_004,33,1280,960,standard,Type 2,,,train
+MUP_004_IMG_34.jpg,MUP_004,34,1280,960,standard,Type 2,,,train
+MUP_004_IMG_35.jpg,MUP_004,35,1280,960,standard,Type 2,,,train
+MUP_004_IMG_36.jpg,MUP_004,36,1280,960,standard,Type 2,,,train
+MUP_005_IMG_01.jpg,MUP_005,1,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_02.jpg,MUP_005,2,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_03.jpg,MUP_005,3,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_04.jpg,MUP_005,4,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_05.jpg,MUP_005,5,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_06.jpg,MUP_005,6,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_07.jpg,MUP_005,7,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_08.jpg,MUP_005,8,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_09.jpg,MUP_005,9,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_10.jpg,MUP_005,10,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_11.jpg,MUP_005,11,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_12.jpg,MUP_005,12,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_13.jpg,MUP_005,13,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_14.jpg,MUP_005,14,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_15.jpg,MUP_005,15,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_16.jpg,MUP_005,16,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_17.jpg,MUP_005,17,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_18.jpg,MUP_005,18,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_19.jpg,MUP_005,19,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_20.jpg,MUP_005,20,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_21.jpg,MUP_005,21,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_22.jpg,MUP_005,22,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_23.jpg,MUP_005,23,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_24.jpg,MUP_005,24,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_005_IMG_25.jpg,MUP_005,25,1280,960,standard,Type 1,Ectopia; zona glandularia,,train
+MUP_006_IMG_01.jpg,MUP_006,1,1280,960,standard,Type 1,,,test
+MUP_006_IMG_02.jpg,MUP_006,2,1280,960,standard,Type 1,,,test
+MUP_006_IMG_03.jpg,MUP_006,3,1280,960,standard,Type 1,,,test
+MUP_006_IMG_04.jpg,MUP_006,4,1280,960,standard,Type 1,,,test
+MUP_006_IMG_05.jpg,MUP_006,5,1280,960,standard,Type 1,,,test
+MUP_006_IMG_06.jpg,MUP_006,6,1280,960,standard,Type 1,,,test
+MUP_006_IMG_07.jpg,MUP_006,7,1280,960,standard,Type 1,,,test
+MUP_006_IMG_08.jpg,MUP_006,8,1280,960,standard,Type 1,,,test
+MUP_006_IMG_09.jpg,MUP_006,9,1280,960,standard,Type 1,,,test
+MUP_006_IMG_10.jpg,MUP_006,10,1280,960,standard,Type 1,,,test
+MUP_006_IMG_11.jpg,MUP_006,11,1280,960,standard,Type 1,,,test
+MUP_006_IMG_12.jpg,MUP_006,12,1280,960,standard,Type 1,,,test
+MUP_006_IMG_13.jpg,MUP_006,13,1280,960,standard,Type 1,,,test
+MUP_006_IMG_14.jpg,MUP_006,14,1280,960,standard,Type 1,,,test
+MUP_006_IMG_15.jpg,MUP_006,15,1280,960,standard,Type 1,,,test
+MUP_006_IMG_16.jpg,MUP_006,16,1280,960,standard,Type 1,,,test
+MUP_007_IMG_01.jpg,MUP_007,1,1280,960,standard,Type 2,,,train
+MUP_007_IMG_02.jpg,MUP_007,2,1280,960,standard,Type 2,,,train
+MUP_007_IMG_03.jpg,MUP_007,3,1280,960,standard,Type 2,,,train
+MUP_007_IMG_04.jpg,MUP_007,4,1280,960,standard,Type 2,,,train
+MUP_007_IMG_05.jpg,MUP_007,5,1280,960,standard,Type 2,,,train
+MUP_007_IMG_06.jpg,MUP_007,6,1280,960,standard,Type 2,,,train
+MUP_007_IMG_07.jpg,MUP_007,7,1280,960,standard,Type 2,,,train
+MUP_007_IMG_08.jpg,MUP_007,8,1280,960,standard,Type 2,,,train
+MUP_007_IMG_09.jpg,MUP_007,9,1280,960,standard,Type 2,,,train
+MUP_007_IMG_10.jpg,MUP_007,10,1280,960,standard,Type 2,,,train
+MUP_007_IMG_11.jpg,MUP_007,11,1280,960,standard,Type 2,,,train
+MUP_007_IMG_13.jpg,MUP_007,13,1280,960,standard,Type 2,,,train
+MUP_007_IMG_14.jpg,MUP_007,14,1280,960,standard,Type 2,,,train
+MUP_007_IMG_15.jpg,MUP_007,15,1280,960,standard,Type 2,,,train
+MUP_007_IMG_16.jpg,MUP_007,16,1280,960,standard,Type 2,,,train
+MUP_007_IMG_17.jpg,MUP_007,17,1280,960,standard,Type 2,,,train
+MUP_007_IMG_18.jpg,MUP_007,18,1280,960,standard,Type 2,,,train
+MUP_007_IMG_19.jpg,MUP_007,19,1280,960,standard,Type 2,,,train
+MUP_007_IMG_20.jpg,MUP_007,20,1280,960,standard,Type 2,,,train
+MUP_007_IMG_21.jpg,MUP_007,21,1280,960,standard,Type 2,,,train
+MUP_007_IMG_22.jpg,MUP_007,22,1280,960,standard,Type 2,,,train
+MUP_007_IMG_23.jpg,MUP_007,23,1280,960,standard,Type 2,,,train
+MUP_007_IMG_24.jpg,MUP_007,24,1280,960,standard,Type 2,,,train
+MUP_007_IMG_25.jpg,MUP_007,25,1280,960,standard,Type 2,,,train
+MUP_007_IMG_26.jpg,MUP_007,26,1280,960,standard,Type 2,,,train
+MUP_007_IMG_27.jpg,MUP_007,27,1280,960,standard,Type 2,,,train
+MUP_007_IMG_28.jpg,MUP_007,28,1280,960,standard,Type 2,,,train
+MUP_007_IMG_29.jpg,MUP_007,29,1280,960,standard,Type 2,,,train
+MUP_007_IMG_30.jpg,MUP_007,30,1280,960,standard,Type 2,,,train
+MUP_007_IMG_31.jpg,MUP_007,31,1280,960,standard,Type 2,,,train
+MUP_007_IMG_32.jpg,MUP_007,32,1280,960,standard,Type 2,,,train
+MUP_007_IMG_33.jpg,MUP_007,33,1280,960,standard,Type 2,,,train
+MUP_007_IMG_34.jpg,MUP_007,34,1280,960,standard,Type 2,,,train
+MUP_007_IMG_35.jpg,MUP_007,35,1280,960,standard,Type 2,,,train
+MUP_007_IMG_36.jpg,MUP_007,36,1280,960,standard,Type 2,,,train
+MUP_007_IMG_37.jpg,MUP_007,37,1280,960,standard,Type 2,,,train
+MUP_007_IMG_38.jpg,MUP_007,38,1280,960,standard,Type 2,,,train
+MUP_007_IMG_39.jpg,MUP_007,39,1280,960,standard,Type 2,,,train
+MUP_007_IMG_40.jpg,MUP_007,40,1280,960,standard,Type 2,,,train
+MUP_007_IMG_41.jpg,MUP_007,41,1280,960,standard,Type 2,,,train
+MUP_007_IMG_42.jpg,MUP_007,42,1280,960,standard,Type 2,,,train
+MUP_007_IMG_43.jpg,MUP_007,43,1280,960,standard,Type 2,,,train
+MUP_007_IMG_44.jpg,MUP_007,44,1280,960,standard,Type 2,,,train
+MUP_007_IMG_45.jpg,MUP_007,45,1280,960,standard,Type 2,,,train
+MUP_007_IMG_46.jpg,MUP_007,46,1280,960,standard,Type 2,,,train
+MUP_007_IMG_47.jpg,MUP_007,47,1280,960,standard,Type 2,,,train
+MUP_007_IMG_48.jpg,MUP_007,48,1280,960,standard,Type 2,,,train
+MUP_007_IMG_49.jpg,MUP_007,49,1280,960,standard,Type 2,,,train
+MUP_007_IMG_50.jpg,MUP_007,50,1280,960,standard,Type 2,,,train
+MUP_007_IMG_51.jpg,MUP_007,51,1280,960,standard,Type 2,,,train
+MUP_007_IMG_52.jpg,MUP_007,52,1280,960,standard,Type 2,,,train
+MUP_007_IMG_53.jpg,MUP_007,53,1280,960,standard,Type 2,,,train
+MUP_007_IMG_54.jpg,MUP_007,54,1280,960,standard,Type 2,,,train
+MUP_007_IMG_55.jpg,MUP_007,55,1280,960,standard,Type 2,,,train
+MUP_007_IMG_56.jpg,MUP_007,56,1280,960,standard,Type 2,,,train
+MUP_007_IMG_57.jpg,MUP_007,57,1280,960,standard,Type 2,,,train
+MUP_007_IMG_58.jpg,MUP_007,58,1280,960,standard,Type 2,,,train
+MUP_007_IMG_59.jpg,MUP_007,59,1280,960,standard,Type 2,,,train
+MUP_007_IMG_60.jpg,MUP_007,60,1280,960,standard,Type 2,,,train
+MUP_007_IMG_61.jpg,MUP_007,61,1280,960,standard,Type 2,,,train
+MUP_007_IMG_62.jpg,MUP_007,62,1280,960,standard,Type 2,,,train
+MUP_007_IMG_63.jpg,MUP_007,63,1280,960,standard,Type 2,,,train
+MUP_007_IMG_64.jpg,MUP_007,64,1280,960,standard,Type 2,,,train
+MUP_007_IMG_65.jpg,MUP_007,65,1280,960,standard,Type 2,,,train
+MUP_007_IMG_66.jpg,MUP_007,66,1280,960,standard,Type 2,,,train
+MUP_007_IMG_67.jpg,MUP_007,67,1280,960,standard,Type 2,,,train
+MUP_007_IMG_68.jpg,MUP_007,68,1280,960,standard,Type 2,,,train
+MUP_007_IMG_69.jpg,MUP_007,69,1280,960,standard,Type 2,,,train
+MUP_008_IMG_01.jpg,MUP_008,1,1280,960,standard,Type 1,,,train
+MUP_008_IMG_02.jpg,MUP_008,2,1280,960,standard,Type 1,,,train
+MUP_008_IMG_03.jpg,MUP_008,3,1280,960,standard,Type 1,,,train
+MUP_008_IMG_04.jpg,MUP_008,4,1280,960,standard,Type 1,,,train
+MUP_008_IMG_05.jpg,MUP_008,5,1280,960,standard,Type 1,,,train
+MUP_008_IMG_06.jpg,MUP_008,6,1280,960,standard,Type 1,,,train
+MUP_008_IMG_07.jpg,MUP_008,7,1280,960,standard,Type 1,,,train
+MUP_008_IMG_08.jpg,MUP_008,8,1280,960,standard,Type 1,,,train
+MUP_008_IMG_09.jpg,MUP_008,9,1280,960,standard,Type 1,,,train
+MUP_008_IMG_10.jpg,MUP_008,10,1280,960,standard,Type 1,,,train
+MUP_008_IMG_11.jpg,MUP_008,11,1280,960,standard,Type 1,,,train
+MUP_008_IMG_12.jpg,MUP_008,12,1280,960,standard,Type 1,,,train
+MUP_008_IMG_13.jpg,MUP_008,13,1280,960,standard,Type 1,,,train
+MUP_008_IMG_14.jpg,MUP_008,14,1280,960,standard,Type 1,,,train
+MUP_008_IMG_15.jpg,MUP_008,15,1280,960,standard,Type 1,,,train
+MUP_008_IMG_16.jpg,MUP_008,16,1280,960,standard,Type 1,,,train
+MUP_008_IMG_17.jpg,MUP_008,17,1280,960,standard,Type 1,,,train
+MUP_008_IMG_18.jpg,MUP_008,18,1280,960,standard,Type 1,,,train
+MUP_008_IMG_19.jpg,MUP_008,19,1280,960,standard,Type 1,,,train
+MUP_008_IMG_20.jpg,MUP_008,20,1280,960,standard,Type 1,,,train
+MUP_008_IMG_21.jpg,MUP_008,21,1280,960,standard,Type 1,,,train
+MUP_008_IMG_22.jpg,MUP_008,22,1280,960,standard,Type 1,,,train
+MUP_008_IMG_23.jpg,MUP_008,23,1280,960,standard,Type 1,,,train
+MUP_008_IMG_24.jpg,MUP_008,24,1280,960,standard,Type 1,,,train
+MUP_008_IMG_25.jpg,MUP_008,25,1280,960,standard,Type 1,,,train
+MUP_008_IMG_26.jpg,MUP_008,26,1280,960,standard,Type 1,,,train
+MUP_008_IMG_27.jpg,MUP_008,27,1280,960,standard,Type 1,,,train
+MUP_008_IMG_28.jpg,MUP_008,28,1280,960,standard,Type 1,,,train
+MUP_008_IMG_29.jpg,MUP_008,29,1280,960,standard,Type 1,,,train
+MUP_008_IMG_30.jpg,MUP_008,30,1280,960,standard,Type 1,,,train
+MUP_008_IMG_31.jpg,MUP_008,31,1280,960,standard,Type 1,,,train
+MUP_008_IMG_32.jpg,MUP_008,32,1280,960,standard,Type 1,,,train
+MUP_008_IMG_33.jpg,MUP_008,33,1280,960,standard,Type 1,,,train
+MUP_008_IMG_34.jpg,MUP_008,34,1280,960,standard,Type 1,,,train
+MUP_008_IMG_35.jpg,MUP_008,35,1280,960,standard,Type 1,,,train
+MUP_008_IMG_36.jpg,MUP_008,36,1280,960,standard,Type 1,,,train
+MUP_008_IMG_37.jpg,MUP_008,37,1280,960,standard,Type 1,,,train
+MUP_008_IMG_38.jpg,MUP_008,38,1280,960,standard,Type 1,,,train
+MUP_008_IMG_39.jpg,MUP_008,39,1280,960,standard,Type 1,,,train
+MUP_008_IMG_40.jpg,MUP_008,40,1280,960,standard,Type 1,,,train
+MUP_008_IMG_41.jpg,MUP_008,41,1280,960,standard,Type 1,,,train
+MUP_008_IMG_42.jpg,MUP_008,42,1280,960,standard,Type 1,,,train
+MUP_008_IMG_43.jpg,MUP_008,43,1280,960,standard,Type 1,,,train
+MUP_008_IMG_44.jpg,MUP_008,44,1280,960,standard,Type 1,,,train
+MUP_008_IMG_45.jpg,MUP_008,45,1280,960,standard,Type 1,,,train
+MUP_009_IMG_01.jpg,MUP_009,1,1280,960,standard,Type 1,,IUD thread visible,train
+MUP_009_IMG_02.jpg,MUP_009,2,1280,960,standard,Type 1,,IUD thread visible,train
+MUP_009_IMG_03.jpg,MUP_009,3,1280,960,standard,Type 1,,IUD thread visible,train
+MUP_009_IMG_04.jpg,MUP_009,4,1280,960,standard,Type 1,,IUD thread visible,train
+MUP_009_IMG_05.jpg,MUP_009,5,1280,960,standard,Type 1,,IUD thread visible,train
+MUP_009_IMG_06.jpg,MUP_009,6,1280,960,standard,Type 1,,IUD thread visible,train
+MUP_010_IMG_01.jpg,MUP_010,1,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_02.jpg,MUP_010,2,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_03.jpg,MUP_010,3,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_04.jpg,MUP_010,4,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_05.jpg,MUP_010,5,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_06.jpg,MUP_010,6,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_07.jpg,MUP_010,7,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_08.jpg,MUP_010,8,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_09.jpg,MUP_010,9,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_10.jpg,MUP_010,10,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_11.jpg,MUP_010,11,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_12.jpg,MUP_010,12,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_13.jpg,MUP_010,13,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_14.jpg,MUP_010,14,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_15.jpg,MUP_010,15,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_16.jpg,MUP_010,16,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_17.jpg,MUP_010,17,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_18.jpg,MUP_010,18,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_19.jpg,MUP_010,19,1280,960,standard,Type 3,,After manipulation,test
+MUP_010_IMG_20.jpg,MUP_010,20,1280,960,standard,Type 3,,After manipulation,test
+MUP_011_IMG_01.jpg,MUP_011,1,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_02.jpg,MUP_011,2,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_03.jpg,MUP_011,3,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_04.jpg,MUP_011,4,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_05.jpg,MUP_011,5,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_06.jpg,MUP_011,6,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_07.jpg,MUP_011,7,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_08.jpg,MUP_011,8,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_09.jpg,MUP_011,9,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_10.jpg,MUP_011,10,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_11.jpg,MUP_011,11,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_12.jpg,MUP_011,12,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_13.jpg,MUP_011,13,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_14.jpg,MUP_011,14,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_15.jpg,MUP_011,15,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_16.jpg,MUP_011,16,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_17.jpg,MUP_011,17,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_18.jpg,MUP_011,18,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_19.jpg,MUP_011,19,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_20.jpg,MUP_011,20,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_21.jpg,MUP_011,21,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_22.jpg,MUP_011,22,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_23.jpg,MUP_011,23,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_24.jpg,MUP_011,24,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_25.jpg,MUP_011,25,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_26.jpg,MUP_011,26,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_27.jpg,MUP_011,27,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_28.jpg,MUP_011,28,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_29.jpg,MUP_011,29,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_30.jpg,MUP_011,30,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_31.jpg,MUP_011,31,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_32.jpg,MUP_011,32,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_33.jpg,MUP_011,33,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_34.jpg,MUP_011,34,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_35.jpg,MUP_011,35,1280,960,standard,Type 1,Ectopia,,val
+MUP_011_IMG_36.jpg,MUP_011,36,1280,960,standard,Type 1,Ectopia,,val
+MUP_012_IMG_01.jpg,MUP_012,1,1280,960,standard,Type 3,,,train
+MUP_012_IMG_02.jpg,MUP_012,2,1280,960,standard,Type 3,,,train
+MUP_012_IMG_03.jpg,MUP_012,3,1280,960,standard,Type 3,,,train
+MUP_012_IMG_04.jpg,MUP_012,4,1280,960,standard,Type 3,,,train
+MUP_012_IMG_05.jpg,MUP_012,5,1280,960,standard,Type 3,,,train
+MUP_012_IMG_06.jpg,MUP_012,6,1280,960,standard,Type 3,,,train
+MUP_012_IMG_07.jpg,MUP_012,7,1280,960,standard,Type 3,,,train
+MUP_012_IMG_08.jpg,MUP_012,8,1280,960,standard,Type 3,,,train
+MUP_012_IMG_09.jpg,MUP_012,9,1280,960,standard,Type 3,,,train
+MUP_012_IMG_10.jpg,MUP_012,10,1280,960,standard,Type 3,,,train
+MUP_012_IMG_11.jpg,MUP_012,11,1280,960,standard,Type 3,,,train
+MUP_012_IMG_12.jpg,MUP_012,12,1280,960,standard,Type 3,,,train
+MUP_012_IMG_13.jpg,MUP_012,13,1280,960,standard,Type 3,,,train
+MUP_012_IMG_14.jpg,MUP_012,14,1280,960,standard,Type 3,,,train
+MUP_012_IMG_15.jpg,MUP_012,15,1280,960,standard,Type 3,,,train
+MUP_012_IMG_16.jpg,MUP_012,16,1280,960,standard,Type 3,,,train
+MUP_012_IMG_17.jpg,MUP_012,17,1280,960,standard,Type 3,,,train
+MUP_012_IMG_18.jpg,MUP_012,18,1280,960,standard,Type 3,,,train
+MUP_012_IMG_19.jpg,MUP_012,19,1280,960,standard,Type 3,,,train
+MUP_012_IMG_20.jpg,MUP_012,20,1280,960,standard,Type 3,,,train
+MUP_012_IMG_21.jpg,MUP_012,21,1280,960,standard,Type 3,,,train
+MUP_012_IMG_22.jpg,MUP_012,22,1280,960,standard,Type 3,,,train
+MUP_012_IMG_23.jpg,MUP_012,23,1280,960,standard,Type 3,,,train
+MUP_012_IMG_24.jpg,MUP_012,24,1280,960,standard,Type 3,,,train
+MUP_012_IMG_25.jpg,MUP_012,25,1280,960,standard,Type 3,,,train
+MUP_012_IMG_26.jpg,MUP_012,26,1280,960,standard,Type 3,,,train
+MUP_012_IMG_27.jpg,MUP_012,27,1280,960,standard,Type 3,,,train
+MUP_012_IMG_28.jpg,MUP_012,28,1280,960,standard,Type 3,,,train
+MUP_012_IMG_29.jpg,MUP_012,29,1280,960,standard,Type 3,,,train
+MUP_012_IMG_30.jpg,MUP_012,30,1280,960,standard,Type 3,,,train
+MUP_012_IMG_31.jpg,MUP_012,31,1280,960,standard,Type 3,,,train
+MUP_012_IMG_32.jpg,MUP_012,32,1280,960,standard,Type 3,,,train
+MUP_012_IMG_33.jpg,MUP_012,33,1280,960,standard,Type 3,,,train
+MUP_012_IMG_34.jpg,MUP_012,34,1280,960,standard,Type 3,,,train
+MUP_012_IMG_35.jpg,MUP_012,35,1280,960,standard,Type 3,,,train
+MUP_012_IMG_36.jpg,MUP_012,36,1280,960,standard,Type 3,,,train
+MUP_012_IMG_37.jpg,MUP_012,37,1280,960,standard,Type 3,,,train
+MUP_012_IMG_38.jpg,MUP_012,38,1280,960,standard,Type 3,,,train
+MUP_012_IMG_39.jpg,MUP_012,39,1280,960,standard,Type 3,,,train
+MUP_012_IMG_40.jpg,MUP_012,40,1280,960,standard,Type 3,,,train
+MUP_012_IMG_41.jpg,MUP_012,41,1280,960,standard,Type 3,,,train
+MUP_012_IMG_42.jpg,MUP_012,42,1280,960,standard,Type 3,,,train
+MUP_012_IMG_43.jpg,MUP_012,43,1280,960,standard,Type 3,,,train
+MUP_012_IMG_44.jpg,MUP_012,44,1280,960,standard,Type 3,,,train
+MUP_012_IMG_45.jpg,MUP_012,45,1280,960,standard,Type 3,,,train
+MUP_012_IMG_46.jpg,MUP_012,46,1280,960,standard,Type 3,,,train
+MUP_012_IMG_47.jpg,MUP_012,47,1280,960,standard,Type 3,,,train
+MUP_012_IMG_48.jpg,MUP_012,48,1280,960,standard,Type 3,,,train
+MUP_012_IMG_49.jpg,MUP_012,49,1280,960,standard,Type 3,,,train
+MUP_012_IMG_50.jpg,MUP_012,50,1280,960,standard,Type 3,,,train
+MUP_012_IMG_51.jpg,MUP_012,51,1280,960,standard,Type 3,,,train
+MUP_012_IMG_52.jpg,MUP_012,52,1280,960,standard,Type 3,,,train
+MUP_012_IMG_53.jpg,MUP_012,53,1280,960,standard,Type 3,,,train
+MUP_012_IMG_54.jpg,MUP_012,54,1280,960,standard,Type 3,,,train
+MUP_012_IMG_55.jpg,MUP_012,55,1280,960,standard,Type 3,,,train
+MUP_012_IMG_56.jpg,MUP_012,56,1280,960,standard,Type 3,,,train
+MUP_013_IMG_01.jpg,MUP_013,1,1280,960,standard,Type 1,,,test
+MUP_013_IMG_02.jpg,MUP_013,2,1280,960,standard,Type 1,,,test
+MUP_013_IMG_03.jpg,MUP_013,3,1280,960,standard,Type 1,,,test
+MUP_013_IMG_04.jpg,MUP_013,4,1280,960,standard,Type 1,,,test
+MUP_013_IMG_05.jpg,MUP_013,5,1280,960,standard,Type 1,,,test
+MUP_013_IMG_06.jpg,MUP_013,6,1280,960,standard,Type 1,,,test
+MUP_013_IMG_07.jpg,MUP_013,7,1280,960,standard,Type 1,,,test
+MUP_013_IMG_08.jpg,MUP_013,8,1280,960,standard,Type 1,,,test
+MUP_013_IMG_09.jpg,MUP_013,9,1280,960,standard,Type 1,,,test
+MUP_013_IMG_10.jpg,MUP_013,10,1280,960,standard,Type 1,,,test
+MUP_013_IMG_11.jpg,MUP_013,11,1280,960,standard,Type 1,,,test
+MUP_013_IMG_12.jpg,MUP_013,12,1280,960,standard,Type 1,,,test
+MUP_013_IMG_13.jpg,MUP_013,13,1280,960,standard,Type 1,,,test
+MUP_013_IMG_14.jpg,MUP_013,14,1280,960,standard,Type 1,,,test
+MUP_013_IMG_15.jpg,MUP_013,15,1280,960,standard,Type 1,,,test
+MUP_013_IMG_16.jpg,MUP_013,16,1280,960,standard,Type 1,,,test
+MUP_013_IMG_17.jpg,MUP_013,17,1280,960,standard,Type 1,,,test
+MUP_013_IMG_18.jpg,MUP_013,18,1280,960,standard,Type 1,,,test
+MUP_013_IMG_19.jpg,MUP_013,19,1280,960,standard,Type 1,,,test
+MUP_013_IMG_20.jpg,MUP_013,20,1280,960,standard,Type 1,,,test
+MUP_013_IMG_21.jpg,MUP_013,21,1280,960,standard,Type 1,,,test
+MUP_013_IMG_22.jpg,MUP_013,22,1280,960,standard,Type 1,,,test
+MUP_013_IMG_23.jpg,MUP_013,23,1280,960,standard,Type 1,,,test
+MUP_013_IMG_24.jpg,MUP_013,24,1280,960,standard,Type 1,,,test
+MUP_013_IMG_25.jpg,MUP_013,25,1280,960,standard,Type 1,,,test
+MUP_013_IMG_26.jpg,MUP_013,26,1280,960,standard,Type 1,,,test
+MUP_013_IMG_27.jpg,MUP_013,27,1280,960,standard,Type 1,,,test
+MUP_013_IMG_28.jpg,MUP_013,28,1280,960,standard,Type 1,,,test
+MUP_013_IMG_29.jpg,MUP_013,29,1280,960,standard,Type 1,,,test
+MUP_014_IMG_01.jpg,MUP_014,1,1280,960,standard,Type 3,,,test
+MUP_014_IMG_02.jpg,MUP_014,2,1280,960,standard,Type 3,,,test
+MUP_014_IMG_03.jpg,MUP_014,3,1280,960,standard,Type 3,,,test
+MUP_014_IMG_04.jpg,MUP_014,4,1280,960,standard,Type 3,,,test
+MUP_014_IMG_05.jpg,MUP_014,5,1280,960,standard,Type 3,,,test
+MUP_014_IMG_06.jpg,MUP_014,6,1280,960,standard,Type 3,,,test
+MUP_014_IMG_07.jpg,MUP_014,7,1280,960,standard,Type 3,,,test
+MUP_014_IMG_08.jpg,MUP_014,8,1280,960,standard,Type 3,,,test
+MUP_014_IMG_09.jpg,MUP_014,9,1280,960,standard,Type 3,,,test
+MUP_014_IMG_10.jpg,MUP_014,10,1280,960,standard,Type 3,,,test
+MUP_014_IMG_11.jpg,MUP_014,11,1280,960,standard,Type 3,,,test
+MUP_014_IMG_12.jpg,MUP_014,12,1280,960,standard,Type 3,,,test
+MUP_014_IMG_13.jpg,MUP_014,13,1280,960,standard,Type 3,,,test
+MUP_014_IMG_14.jpg,MUP_014,14,1280,960,standard,Type 3,,,test
+MUP_014_IMG_15.jpg,MUP_014,15,1280,960,standard,Type 3,,,test
+MUP_014_IMG_16.jpg,MUP_014,16,1280,960,standard,Type 3,,,test
+MUP_014_IMG_17.jpg,MUP_014,17,1280,960,standard,Type 3,,,test
+MUP_014_IMG_18.jpg,MUP_014,18,1280,960,standard,Type 3,,,test
+MUP_015_IMG_01.jpg,MUP_015,1,1280,960,standard,Type 3,,,train
+MUP_015_IMG_02.jpg,MUP_015,2,1280,960,standard,Type 3,,,train
+MUP_015_IMG_03.jpg,MUP_015,3,1280,960,standard,Type 3,,,train
+MUP_015_IMG_04.jpg,MUP_015,4,1280,960,standard,Type 3,,,train
+MUP_015_IMG_05.jpg,MUP_015,5,1280,960,standard,Type 3,,,train
+MUP_015_IMG_06.jpg,MUP_015,6,1280,960,standard,Type 3,,,train
+MUP_015_IMG_07.jpg,MUP_015,7,1280,960,standard,Type 3,,,train
+MUP_015_IMG_08.jpg,MUP_015,8,1280,960,standard,Type 3,,,train
+MUP_015_IMG_09.jpg,MUP_015,9,1280,960,standard,Type 3,,,train
+MUP_015_IMG_10.jpg,MUP_015,10,1280,960,standard,Type 3,,,train
+MUP_015_IMG_11.jpg,MUP_015,11,1280,960,standard,Type 3,,,train
+MUP_015_IMG_12.jpg,MUP_015,12,1280,960,standard,Type 3,,,train
+MUP_015_IMG_13.jpg,MUP_015,13,1280,960,standard,Type 3,,,train
+MUP_016_IMG_01.jpg,MUP_016,1,1280,960,standard,Type 2,,,val
+MUP_016_IMG_02.jpg,MUP_016,2,1280,960,standard,Type 2,,,val
+MUP_016_IMG_03.jpg,MUP_016,3,1280,960,standard,Type 2,,,val
+MUP_016_IMG_04.jpg,MUP_016,4,1280,960,standard,Type 2,,,val
+MUP_016_IMG_05.jpg,MUP_016,5,1280,960,standard,Type 2,,,val
+MUP_016_IMG_06.jpg,MUP_016,6,1280,960,standard,Type 2,,,val
+MUP_016_IMG_07.jpg,MUP_016,7,1280,960,standard,Type 2,,,val
+MUP_016_IMG_08.jpg,MUP_016,8,1280,960,standard,Type 2,,,val
+MUP_016_IMG_09.jpg,MUP_016,9,1280,960,standard,Type 2,,,val
+MUP_016_IMG_10.jpg,MUP_016,10,1280,960,standard,Type 2,,,val
+MUP_016_IMG_11.jpg,MUP_016,11,1280,960,standard,Type 2,,,val
+MUP_016_IMG_12.jpg,MUP_016,12,1280,960,standard,Type 2,,,val
+MUP_016_IMG_13.jpg,MUP_016,13,1280,960,standard,Type 2,,,val
+MUP_016_IMG_14.jpg,MUP_016,14,1280,960,standard,Type 2,,,val
+MUP_016_IMG_15.jpg,MUP_016,15,1280,960,standard,Type 2,,,val
+MUP_016_IMG_16.jpg,MUP_016,16,1280,960,standard,Type 2,,,val
+MUP_016_IMG_17.jpg,MUP_016,17,1280,960,standard,Type 2,,,val
+MUP_016_IMG_18.jpg,MUP_016,18,1280,960,standard,Type 2,,,val
+MUP_016_IMG_19.jpg,MUP_016,19,1280,960,standard,Type 2,,,val
+MUP_016_IMG_20.jpg,MUP_016,20,1280,960,standard,Type 2,,,val
+MUP_016_IMG_21.jpg,MUP_016,21,1280,960,standard,Type 2,,,val
+MUP_016_IMG_22.jpg,MUP_016,22,1280,960,standard,Type 2,,,val
+MUP_016_IMG_23.jpg,MUP_016,23,1280,960,standard,Type 2,,,val
+MUP_016_IMG_24.jpg,MUP_016,24,1280,960,standard,Type 2,,,val
+MUP_016_IMG_25.jpg,MUP_016,25,1280,960,standard,Type 2,,,val
+MUP_016_IMG_26.jpg,MUP_016,26,1280,960,standard,Type 2,,,val
+MUP_016_IMG_27.jpg,MUP_016,27,1280,960,standard,Type 2,,,val
+MUP_016_IMG_28.jpg,MUP_016,28,1280,960,standard,Type 2,,,val
+MUP_016_IMG_29.jpg,MUP_016,29,1280,960,standard,Type 2,,,val
+MUP_016_IMG_30.jpg,MUP_016,30,1280,960,standard,Type 2,,,val
+MUP_016_IMG_31.jpg,MUP_016,31,1280,960,standard,Type 2,,,val
+MUP_016_IMG_32.jpg,MUP_016,32,1280,960,standard,Type 2,,,val
+MUP_016_IMG_33.jpg,MUP_016,33,1280,960,standard,Type 2,,,val
+MUP_016_IMG_34.jpg,MUP_016,34,1280,960,standard,Type 2,,,val
+MUP_016_IMG_35.jpg,MUP_016,35,1280,960,standard,Type 2,,,val
+MUP_016_IMG_36.jpg,MUP_016,36,1280,960,standard,Type 2,,,val
+MUP_016_IMG_37.jpg,MUP_016,37,1280,960,standard,Type 2,,,val
+MUP_016_IMG_38.jpg,MUP_016,38,1280,960,standard,Type 2,,,val
+MUP_016_IMG_39.jpg,MUP_016,39,1280,960,standard,Type 2,,,val
+MUP_016_IMG_40.jpg,MUP_016,40,1280,960,standard,Type 2,,,val
+MUP_016_IMG_41.jpg,MUP_016,41,1280,960,standard,Type 2,,,val
+MUP_016_IMG_42.jpg,MUP_016,42,1280,960,standard,Type 2,,,val
+MUP_016_IMG_43.jpg,MUP_016,43,1280,960,standard,Type 2,,,val
+MUP_016_IMG_44.jpg,MUP_016,44,1280,960,standard,Type 2,,,val
+MUP_016_IMG_45.jpg,MUP_016,45,1280,960,standard,Type 2,,,val
+MUP_016_IMG_46.jpg,MUP_016,46,1280,960,standard,Type 2,,,val
+MUP_016_IMG_47.jpg,MUP_016,47,1280,960,standard,Type 2,,,val
+MUP_016_IMG_48.jpg,MUP_016,48,1280,960,standard,Type 2,,,val
+MUP_016_IMG_49.jpg,MUP_016,49,1280,960,standard,Type 2,,,val
+MUP_016_IMG_50.jpg,MUP_016,50,1280,960,standard,Type 2,,,val
+MUP_016_IMG_51.jpg,MUP_016,51,1280,960,standard,Type 2,,,val
+MUP_016_IMG_52.jpg,MUP_016,52,1280,960,standard,Type 2,,,val
+MUP_016_IMG_53.jpg,MUP_016,53,1280,960,standard,Type 2,,,val
+MUP_017_IMG_01.jpg,MUP_017,1,1280,960,standard,Type 3,,,train
+MUP_017_IMG_02.jpg,MUP_017,2,1280,960,standard,Type 3,,,train
+MUP_017_IMG_03.jpg,MUP_017,3,1280,960,standard,Type 3,,,train
+MUP_017_IMG_04.jpg,MUP_017,4,1280,960,standard,Type 3,,,train
+MUP_017_IMG_05.jpg,MUP_017,5,1280,960,standard,Type 3,,,train
+MUP_017_IMG_06.jpg,MUP_017,6,1280,960,standard,Type 3,,,train
+MUP_017_IMG_07.jpg,MUP_017,7,1280,960,standard,Type 3,,,train
+MUP_017_IMG_08.jpg,MUP_017,8,1280,960,standard,Type 3,,,train
+MUP_017_IMG_09.jpg,MUP_017,9,1280,960,standard,Type 3,,,train
+MUP_017_IMG_10.jpg,MUP_017,10,1280,960,standard,Type 3,,,train
+MUP_017_IMG_11.jpg,MUP_017,11,1280,960,standard,Type 3,,,train
+MUP_017_IMG_12.jpg,MUP_017,12,1280,960,standard,Type 3,,,train
+MUP_017_IMG_13.jpg,MUP_017,13,1280,960,standard,Type 3,,,train
+MUP_017_IMG_14.jpg,MUP_017,14,1280,960,standard,Type 3,,,train
+MUP_017_IMG_15.jpg,MUP_017,15,1280,960,standard,Type 3,,,train
+MUP_017_IMG_16.jpg,MUP_017,16,1280,960,standard,Type 3,,,train
+MUP_017_IMG_17.jpg,MUP_017,17,1280,960,standard,Type 3,,,train
+MUP_017_IMG_18.jpg,MUP_017,18,1280,960,standard,Type 3,,,train
+MUP_017_IMG_19.jpg,MUP_017,19,1280,960,standard,Type 3,,,train
+MUP_017_IMG_20.jpg,MUP_017,20,1280,960,standard,Type 3,,,train
+MUP_017_IMG_21.jpg,MUP_017,21,1280,960,standard,Type 3,,,train
+MUP_017_IMG_22.jpg,MUP_017,22,1280,960,standard,Type 3,,,train
+MUP_017_IMG_23.jpg,MUP_017,23,1280,960,standard,Type 3,,,train
+MUP_017_IMG_24.jpg,MUP_017,24,1280,960,standard,Type 3,,,train
+MUP_017_IMG_25.jpg,MUP_017,25,1280,960,standard,Type 3,,,train
+MUP_018_IMG_01.jpg,MUP_018,1,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_02.jpg,MUP_018,2,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_03.jpg,MUP_018,3,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_04.jpg,MUP_018,4,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_05.jpg,MUP_018,5,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_06.jpg,MUP_018,6,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_07.jpg,MUP_018,7,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_08.jpg,MUP_018,8,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_09.jpg,MUP_018,9,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_10.jpg,MUP_018,10,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_11.jpg,MUP_018,11,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_12.jpg,MUP_018,12,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_13.jpg,MUP_018,13,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_14.jpg,MUP_018,14,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_15.jpg,MUP_018,15,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_16.jpg,MUP_018,16,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_17.jpg,MUP_018,17,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_18.jpg,MUP_018,18,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_19.jpg,MUP_018,19,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_20.jpg,MUP_018,20,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_21.jpg,MUP_018,21,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_22.jpg,MUP_018,22,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_23.jpg,MUP_018,23,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_018_IMG_24.jpg,MUP_018,24,1280,960,standard,Type 3,Leukoplakia,,train
+MUP_019_IMG_01.jpg,MUP_019,1,1280,960,standard,Type 3,,Blood present,val
+MUP_019_IMG_02.jpg,MUP_019,2,1280,960,standard,Type 3,,Blood present,val
+MUP_019_IMG_03.jpg,MUP_019,3,1280,960,standard,Type 3,,Blood present,val
+MUP_019_IMG_04.jpg,MUP_019,4,1280,960,standard,Type 3,,Blood present,val
+MUP_019_IMG_05.jpg,MUP_019,5,1280,960,standard,Type 3,,Blood present,val
+MUP_019_IMG_06.jpg,MUP_019,6,1280,960,standard,Type 3,,Blood present,val
+MUP_019_IMG_07.jpg,MUP_019,7,1280,960,standard,Type 3,,Blood present,val
+MUP_019_IMG_08.jpg,MUP_019,8,1280,960,standard,Type 3,,Blood present,val
+MUP_019_IMG_09.jpg,MUP_019,9,1280,960,standard,Type 3,,Blood present,val
+MUP_019_IMG_10.jpg,MUP_019,10,1280,960,standard,Type 3,,Blood present,val
+MUP_019_IMG_11.jpg,MUP_019,11,1280,960,standard,Type 3,,Blood present,val
+MUP_019_IMG_12.jpg,MUP_019,12,1280,960,standard,Type 3,,Blood present,val
+MUP_019_IMG_13.jpg,MUP_019,13,1280,960,standard,Type 3,,Blood present,val
+MUP_019_IMG_14.jpg,MUP_019,14,1280,960,standard,Type 3,,Blood present,val
+MUP_019_IMG_15.jpg,MUP_019,15,1280,960,standard,Type 3,,Blood present,val
+MUP_019_IMG_16.jpg,MUP_019,16,1280,960,standard,Type 3,,Blood present,val
+MUP_019_IMG_17.jpg,MUP_019,17,1280,960,standard,Type 3,,Blood present,val
+MUP_020_IMG_01.jpg,MUP_020,1,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_02.jpg,MUP_020,2,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_03.jpg,MUP_020,3,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_04.jpg,MUP_020,4,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_05.jpg,MUP_020,5,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_06.jpg,MUP_020,6,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_07.jpg,MUP_020,7,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_08.jpg,MUP_020,8,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_09.jpg,MUP_020,9,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_10.jpg,MUP_020,10,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_11.jpg,MUP_020,11,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_12.jpg,MUP_020,12,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_13.jpg,MUP_020,13,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_14.jpg,MUP_020,14,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_15.jpg,MUP_020,15,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_16.jpg,MUP_020,16,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_17.jpg,MUP_020,17,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_18.jpg,MUP_020,18,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_19.jpg,MUP_020,19,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_20.jpg,MUP_020,20,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_21.jpg,MUP_020,21,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_22.jpg,MUP_020,22,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_23.jpg,MUP_020,23,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_24.jpg,MUP_020,24,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_25.jpg,MUP_020,25,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_26.jpg,MUP_020,26,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_27.jpg,MUP_020,27,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_28.jpg,MUP_020,28,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_29.jpg,MUP_020,29,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_30.jpg,MUP_020,30,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_31.jpg,MUP_020,31,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_32.jpg,MUP_020,32,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_33.jpg,MUP_020,33,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_34.jpg,MUP_020,34,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_35.jpg,MUP_020,35,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_36.jpg,MUP_020,36,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_37.jpg,MUP_020,37,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_38.jpg,MUP_020,38,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_39.jpg,MUP_020,39,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_40.jpg,MUP_020,40,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_41.jpg,MUP_020,41,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_42.jpg,MUP_020,42,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_43.jpg,MUP_020,43,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_44.jpg,MUP_020,44,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_45.jpg,MUP_020,45,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_46.jpg,MUP_020,46,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_47.jpg,MUP_020,47,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_48.jpg,MUP_020,48,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_49.jpg,MUP_020,49,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_50.jpg,MUP_020,50,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_51.jpg,MUP_020,51,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_52.jpg,MUP_020,52,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_53.jpg,MUP_020,53,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_54.jpg,MUP_020,54,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_55.jpg,MUP_020,55,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_56.jpg,MUP_020,56,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_57.jpg,MUP_020,57,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_58.jpg,MUP_020,58,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_59.jpg,MUP_020,59,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_60.jpg,MUP_020,60,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_020_IMG_61.jpg,MUP_020,61,1280,960,standard,Type 2,Ovula Nabothi,,train
+MUP_021_IMG_01.jpg,MUP_021,1,1280,960,standard,Type 1,zona glandularia,,train
+MUP_021_IMG_02.jpg,MUP_021,2,1280,960,standard,Type 1,zona glandularia,,train
+MUP_021_IMG_03.jpg,MUP_021,3,1280,960,standard,Type 1,zona glandularia,,train
+MUP_021_IMG_04.jpg,MUP_021,4,1280,960,standard,Type 1,zona glandularia,,train
+MUP_021_IMG_05.jpg,MUP_021,5,1280,960,standard,Type 1,zona glandularia,,train
+MUP_021_IMG_06.jpg,MUP_021,6,1280,960,standard,Type 1,zona glandularia,,train
+MUP_021_IMG_07.jpg,MUP_021,7,1280,960,standard,Type 1,zona glandularia,,train
+MUP_021_IMG_08.jpg,MUP_021,8,1280,960,standard,Type 1,zona glandularia,,train
+MUP_021_IMG_09.jpg,MUP_021,9,1280,960,standard,Type 1,zona glandularia,,train
+MUP_021_IMG_10.jpg,MUP_021,10,1280,960,standard,Type 1,zona glandularia,,train
+MUP_021_IMG_11.jpg,MUP_021,11,1280,960,standard,Type 1,zona glandularia,,train
+MUP_021_IMG_12.jpg,MUP_021,12,1280,960,standard,Type 1,zona glandularia,,train
+MUP_021_IMG_13.jpg,MUP_021,13,1280,960,standard,Type 1,zona glandularia,,train
+MUP_021_IMG_14.jpg,MUP_021,14,1280,960,standard,Type 1,zona glandularia,,train
+MUP_022_IMG_01.jpg,MUP_022,1,1280,960,standard,Type 1,,,train
+MUP_022_IMG_02.jpg,MUP_022,2,1280,960,standard,Type 1,,,train
+MUP_022_IMG_03.jpg,MUP_022,3,1280,960,standard,Type 1,,,train
+MUP_022_IMG_04.jpg,MUP_022,4,1280,960,standard,Type 1,,,train
+MUP_022_IMG_05.jpg,MUP_022,5,1280,960,standard,Type 1,,,train
+MUP_022_IMG_06.jpg,MUP_022,6,1280,960,standard,Type 1,,,train
+MUP_022_IMG_07.jpg,MUP_022,7,1280,960,standard,Type 1,,,train
+MUP_022_IMG_08.jpg,MUP_022,8,1280,960,standard,Type 1,,,train
+MUP_022_IMG_09.jpg,MUP_022,9,1280,960,standard,Type 1,,,train
+MUP_022_IMG_10.jpg,MUP_022,10,1280,960,standard,Type 1,,,train
+MUP_022_IMG_11.jpg,MUP_022,11,1280,960,standard,Type 1,,,train
+MUP_022_IMG_12.jpg,MUP_022,12,1280,960,standard,Type 1,,,train
+MUP_022_IMG_13.jpg,MUP_022,13,1280,960,standard,Type 1,,,train
+MUP_022_IMG_14.jpg,MUP_022,14,1280,960,standard,Type 1,,,train
+MUP_022_IMG_15.jpg,MUP_022,15,1280,960,standard,Type 1,,,train
+MUP_022_IMG_16.jpg,MUP_022,16,1280,960,standard,Type 1,,,train
+MUP_022_IMG_17.jpg,MUP_022,17,1280,960,standard,Type 1,,,train
+MUP_022_IMG_18.jpg,MUP_022,18,1280,960,standard,Type 1,,,train
+MUP_022_IMG_19.jpg,MUP_022,19,1280,960,standard,Type 1,,,train
+MUP_022_IMG_20.jpg,MUP_022,20,1280,960,standard,Type 1,,,train
+MUP_023_IMG_01.jpg,MUP_023,1,1280,960,standard,Type 2,,,train
+MUP_023_IMG_02.jpg,MUP_023,2,1280,960,standard,Type 2,,,train
+MUP_023_IMG_03.jpg,MUP_023,3,1280,960,standard,Type 2,,,train
+MUP_023_IMG_04.jpg,MUP_023,4,1280,960,standard,Type 2,,,train
+MUP_023_IMG_05.jpg,MUP_023,5,1280,960,standard,Type 2,,,train
+MUP_023_IMG_06.jpg,MUP_023,6,1280,960,standard,Type 2,,,train
+MUP_023_IMG_07.jpg,MUP_023,7,1280,960,standard,Type 2,,,train
+MUP_023_IMG_08.jpg,MUP_023,8,1280,960,standard,Type 2,,,train
+MUP_023_IMG_09.jpg,MUP_023,9,1280,960,standard,Type 2,,,train
+MUP_023_IMG_10.jpg,MUP_023,10,1280,960,standard,Type 2,,,train
+MUP_023_IMG_11.jpg,MUP_023,11,1280,960,standard,Type 2,,,train
+MUP_023_IMG_12.jpg,MUP_023,12,1280,960,standard,Type 2,,,train
+MUP_023_IMG_13.jpg,MUP_023,13,1280,960,standard,Type 2,,,train
+MUP_023_IMG_14.jpg,MUP_023,14,1280,960,standard,Type 2,,,train
+MUP_023_IMG_15.jpg,MUP_023,15,1280,960,standard,Type 2,,,train
+MUP_023_IMG_16.jpg,MUP_023,16,1280,960,standard,Type 2,,,train
+MUP_023_IMG_17.jpg,MUP_023,17,1280,960,standard,Type 2,,,train
+MUP_023_IMG_18.jpg,MUP_023,18,1280,960,standard,Type 2,,,train
+MUP_023_IMG_19.jpg,MUP_023,19,1280,960,standard,Type 2,,,train
+MUP_023_IMG_20.jpg,MUP_023,20,1280,960,standard,Type 2,,,train
+MUP_023_IMG_21.jpg,MUP_023,21,1280,960,standard,Type 2,,,train
+MUP_023_IMG_22.jpg,MUP_023,22,1280,960,standard,Type 2,,,train
+MUP_023_IMG_23.jpg,MUP_023,23,1280,960,standard,Type 2,,,train
+MUP_023_IMG_24.jpg,MUP_023,24,1280,960,standard,Type 2,,,train
+MUP_023_IMG_25.jpg,MUP_023,25,1280,960,standard,Type 2,,,train
+MUP_023_IMG_26.jpg,MUP_023,26,1280,960,standard,Type 2,,,train
+MUP_023_IMG_27.jpg,MUP_023,27,1280,960,standard,Type 2,,,train
+MUP_023_IMG_28.jpg,MUP_023,28,1280,960,standard,Type 2,,,train
+MUP_024_IMG_01.jpg,MUP_024,1,1280,960,standard,Type 2,,,test
+MUP_024_IMG_02.jpg,MUP_024,2,1280,960,standard,Type 2,,,test
+MUP_024_IMG_03.jpg,MUP_024,3,1280,960,standard,Type 2,,,test
+MUP_024_IMG_04.jpg,MUP_024,4,1280,960,standard,Type 2,,,test
+MUP_024_IMG_05.jpg,MUP_024,5,1280,960,standard,Type 2,,,test
+MUP_024_IMG_06.jpg,MUP_024,6,1280,960,standard,Type 2,,,test
+MUP_024_IMG_07.jpg,MUP_024,7,1280,960,standard,Type 2,,,test
+MUP_024_IMG_08.jpg,MUP_024,8,1280,960,standard,Type 2,,,test
+MUP_024_IMG_09.jpg,MUP_024,9,1280,960,standard,Type 2,,,test
+MUP_024_IMG_10.jpg,MUP_024,10,1280,960,standard,Type 2,,,test
+MUP_024_IMG_11.jpg,MUP_024,11,1280,960,standard,Type 2,,,test
+MUP_025_IMG_01.jpg,MUP_025,1,1280,960,standard,Type 1,,,val
+MUP_025_IMG_02.jpg,MUP_025,2,1280,960,standard,Type 1,,,val
+MUP_025_IMG_03.jpg,MUP_025,3,1280,960,standard,Type 1,,,val
+MUP_025_IMG_04.jpg,MUP_025,4,1280,960,standard,Type 1,,,val
+MUP_025_IMG_05.jpg,MUP_025,5,1280,960,standard,Type 1,,,val
+MUP_025_IMG_06.jpg,MUP_025,6,1280,960,standard,Type 1,,,val
+MUP_025_IMG_07.jpg,MUP_025,7,1280,960,standard,Type 1,,,val
+MUP_025_IMG_08.jpg,MUP_025,8,1280,960,standard,Type 1,,,val
+MUP_025_IMG_09.jpg,MUP_025,9,1280,960,standard,Type 1,,,val
+MUP_025_IMG_10.jpg,MUP_025,10,1280,960,standard,Type 1,,,val
+MUP_025_IMG_11.jpg,MUP_025,11,1280,960,standard,Type 1,,,val
+MUP_025_IMG_12.jpg,MUP_025,12,1280,960,standard,Type 1,,,val
+MUP_025_IMG_13.jpg,MUP_025,13,1280,960,standard,Type 1,,,val
+MUP_025_IMG_14.jpg,MUP_025,14,1280,960,standard,Type 1,,,val
+MUP_025_IMG_15.jpg,MUP_025,15,1280,960,standard,Type 1,,,val
+MUP_025_IMG_16.jpg,MUP_025,16,1280,960,standard,Type 1,,,val
+MUP_025_IMG_17.jpg,MUP_025,17,1280,960,standard,Type 1,,,val
+MUP_025_IMG_18.jpg,MUP_025,18,1280,960,standard,Type 1,,,val
+MUP_025_IMG_19.jpg,MUP_025,19,1280,960,standard,Type 1,,,val
+MUP_025_IMG_20.jpg,MUP_025,20,1280,960,standard,Type 1,,,val
+MUP_025_IMG_21.jpg,MUP_025,21,1280,960,standard,Type 1,,,val
+MUP_025_IMG_22.jpg,MUP_025,22,1280,960,standard,Type 1,,,val
+MUP_025_IMG_23.jpg,MUP_025,23,1280,960,standard,Type 1,,,val
+MUP_025_IMG_24.jpg,MUP_025,24,1280,960,standard,Type 1,,,val
+MUP_025_IMG_25.jpg,MUP_025,25,1280,960,standard,Type 1,,,val
+MUP_025_IMG_26.jpg,MUP_025,26,1280,960,standard,Type 1,,,val
+MUP_025_IMG_27.jpg,MUP_025,27,1280,960,standard,Type 1,,,val
+MUP_025_IMG_28.jpg,MUP_025,28,1280,960,standard,Type 1,,,val
+MUP_025_IMG_29.jpg,MUP_025,29,1280,960,standard,Type 1,,,val
+MUP_025_IMG_30.jpg,MUP_025,30,1280,960,standard,Type 1,,,val
+MUP_025_IMG_31.jpg,MUP_025,31,1280,960,standard,Type 1,,,val
+MUP_025_IMG_32.jpg,MUP_025,32,1280,960,standard,Type 1,,,val
+MUP_025_IMG_33.jpg,MUP_025,33,1280,960,standard,Type 1,,,val
+MUP_025_IMG_34.jpg,MUP_025,34,1280,960,standard,Type 1,,,val
+MUP_025_IMG_35.jpg,MUP_025,35,1280,960,standard,Type 1,,,val
+MUP_025_IMG_36.jpg,MUP_025,36,1280,960,standard,Type 1,,,val
+MUP_025_IMG_37.jpg,MUP_025,37,1280,960,standard,Type 1,,,val
+MUP_025_IMG_38.jpg,MUP_025,38,1280,960,standard,Type 1,,,val
+MUP_025_IMG_39.jpg,MUP_025,39,1280,960,standard,Type 1,,,val
+MUP_025_IMG_40.jpg,MUP_025,40,1280,960,standard,Type 1,,,val
+MUP_026_IMG_01.jpg,MUP_026,1,1280,960,standard,Type 2,,,train
+MUP_026_IMG_02.jpg,MUP_026,2,1280,960,standard,Type 2,,,train
+MUP_026_IMG_03.jpg,MUP_026,3,1280,960,standard,Type 2,,,train
+MUP_026_IMG_04.jpg,MUP_026,4,1280,960,standard,Type 2,,,train
+MUP_026_IMG_05.jpg,MUP_026,5,1280,960,standard,Type 2,,,train
+MUP_026_IMG_06.jpg,MUP_026,6,1280,960,standard,Type 2,,,train
+MUP_026_IMG_07.jpg,MUP_026,7,1280,960,standard,Type 2,,,train
+MUP_026_IMG_08.jpg,MUP_026,8,1280,960,standard,Type 2,,,train
+MUP_026_IMG_09.jpg,MUP_026,9,1280,960,standard,Type 2,,,train
+MUP_026_IMG_10.jpg,MUP_026,10,1280,960,standard,Type 2,,,train
+MUP_026_IMG_11.jpg,MUP_026,11,1280,960,standard,Type 2,,,train
+MUP_026_IMG_12.jpg,MUP_026,12,1280,960,standard,Type 2,,,train
+MUP_026_IMG_13.jpg,MUP_026,13,1280,960,standard,Type 2,,,train
+MUP_026_IMG_14.jpg,MUP_026,14,1280,960,standard,Type 2,,,train
+MUP_026_IMG_15.jpg,MUP_026,15,1280,960,standard,Type 2,,,train
+MUP_026_IMG_16.jpg,MUP_026,16,1280,960,standard,Type 2,,,train
+MUP_026_IMG_17.jpg,MUP_026,17,1280,960,standard,Type 2,,,train
+MUP_026_IMG_18.jpg,MUP_026,18,1280,960,standard,Type 2,,,train
+MUP_026_IMG_19.jpg,MUP_026,19,1280,960,standard,Type 2,,,train
+MUP_026_IMG_20.jpg,MUP_026,20,1280,960,standard,Type 2,,,train
+MUP_026_IMG_21.jpg,MUP_026,21,1280,960,standard,Type 2,,,train
+MUP_026_IMG_22.jpg,MUP_026,22,1280,960,standard,Type 2,,,train
+MUP_026_IMG_23.jpg,MUP_026,23,1280,960,standard,Type 2,,,train
+MUP_026_IMG_24.jpg,MUP_026,24,1280,960,standard,Type 2,,,train
+MUP_026_IMG_25.jpg,MUP_026,25,1280,960,standard,Type 2,,,train
+MUP_026_IMG_26.jpg,MUP_026,26,1280,960,standard,Type 2,,,train
+MUP_026_IMG_27.jpg,MUP_026,27,1280,960,standard,Type 2,,,train
+MUP_026_IMG_28.jpg,MUP_026,28,1280,960,standard,Type 2,,,train
+MUP_026_IMG_29.jpg,MUP_026,29,1280,960,standard,Type 2,,,train
+MUP_026_IMG_30.jpg,MUP_026,30,1280,960,standard,Type 2,,,train
+MUP_026_IMG_31.jpg,MUP_026,31,1280,960,standard,Type 2,,,train
+MUP_026_IMG_32.jpg,MUP_026,32,1280,960,standard,Type 2,,,train
+MUP_026_IMG_33.jpg,MUP_026,33,1280,960,standard,Type 2,,,train
+MUP_026_IMG_34.jpg,MUP_026,34,1280,960,standard,Type 2,,,train
+MUP_026_IMG_35.jpg,MUP_026,35,1280,960,standard,Type 2,,,train
+MUP_026_IMG_36.jpg,MUP_026,36,1280,960,standard,Type 2,,,train
+MUP_026_IMG_37.jpg,MUP_026,37,1280,960,standard,Type 2,,,train
+MUP_026_IMG_38.jpg,MUP_026,38,1280,960,standard,Type 2,,,train
+MUP_026_IMG_39.jpg,MUP_026,39,1280,960,standard,Type 2,,,train
+MUP_026_IMG_40.jpg,MUP_026,40,1280,960,standard,Type 2,,,train
+MUP_026_IMG_41.jpg,MUP_026,41,1280,960,standard,Type 2,,,train
+MUP_026_IMG_42.jpg,MUP_026,42,1280,960,standard,Type 2,,,train
+MUP_026_IMG_43.jpg,MUP_026,43,1280,960,standard,Type 2,,,train
+MUP_026_IMG_44.jpg,MUP_026,44,1280,960,standard,Type 2,,,train
+MUP_026_IMG_45.jpg,MUP_026,45,1280,960,standard,Type 2,,,train
+MUP_026_IMG_46.jpg,MUP_026,46,1280,960,standard,Type 2,,,train
+MUP_026_IMG_47.jpg,MUP_026,47,1280,960,standard,Type 2,,,train
+MUP_026_IMG_48.jpg,MUP_026,48,1280,960,standard,Type 2,,,train
+MUP_026_IMG_49.jpg,MUP_026,49,1280,960,standard,Type 2,,,train
+MUP_026_IMG_50.jpg,MUP_026,50,1280,960,standard,Type 2,,,train
+MUP_026_IMG_51.jpg,MUP_026,51,1280,960,standard,Type 2,,,train
+MUP_026_IMG_52.jpg,MUP_026,52,1280,960,standard,Type 2,,,train
+MUP_026_IMG_53.jpg,MUP_026,53,1280,960,standard,Type 2,,,train
+MUP_026_IMG_54.jpg,MUP_026,54,1280,960,standard,Type 2,,,train
+MUP_027_IMG_01.jpg,MUP_027,1,1280,960,standard,Type 1,,,train
+MUP_027_IMG_02.jpg,MUP_027,2,1280,960,standard,Type 1,,,train
+MUP_027_IMG_03.jpg,MUP_027,3,1280,960,standard,Type 1,,,train
+MUP_027_IMG_04.jpg,MUP_027,4,1280,960,standard,Type 1,,,train
+MUP_027_IMG_05.jpg,MUP_027,5,1280,960,standard,Type 1,,,train
+MUP_027_IMG_06.jpg,MUP_027,6,1280,960,standard,Type 1,,,train
+MUP_027_IMG_07.jpg,MUP_027,7,1280,960,standard,Type 1,,,train
+MUP_027_IMG_08.jpg,MUP_027,8,1280,960,standard,Type 1,,,train
+MUP_027_IMG_09.jpg,MUP_027,9,1280,960,standard,Type 1,,,train
+MUP_027_IMG_10.jpg,MUP_027,10,1280,960,standard,Type 1,,,train
+MUP_027_IMG_11.jpg,MUP_027,11,1280,960,standard,Type 1,,,train
+MUP_027_IMG_12.jpg,MUP_027,12,1280,960,standard,Type 1,,,train
+MUP_027_IMG_13.jpg,MUP_027,13,1280,960,standard,Type 1,,,train
+MUP_027_IMG_14.jpg,MUP_027,14,1280,960,standard,Type 1,,,train
+MUP_027_IMG_15.jpg,MUP_027,15,1280,960,standard,Type 1,,,train
+MUP_027_IMG_16.jpg,MUP_027,16,1280,960,standard,Type 1,,,train
+MUP_027_IMG_17.jpg,MUP_027,17,1280,960,standard,Type 1,,,train
+MUP_027_IMG_18.jpg,MUP_027,18,1280,960,standard,Type 1,,,train
+MUP_027_IMG_19.jpg,MUP_027,19,1280,960,standard,Type 1,,,train
+MUP_027_IMG_20.jpg,MUP_027,20,1280,960,standard,Type 1,,,train
+MUP_027_IMG_21.jpg,MUP_027,21,1280,960,standard,Type 1,,,train
+MUP_027_IMG_22.jpg,MUP_027,22,1280,960,standard,Type 1,,,train
+MUP_027_IMG_23.jpg,MUP_027,23,1280,960,standard,Type 1,,,train
+MUP_027_IMG_24.jpg,MUP_027,24,1280,960,standard,Type 1,,,train
+MUP_027_IMG_25.jpg,MUP_027,25,1280,960,standard,Type 1,,,train
+MUP_027_IMG_26.jpg,MUP_027,26,1280,960,standard,Type 1,,,train
+MUP_027_IMG_27.jpg,MUP_027,27,1280,960,standard,Type 1,,,train
+MUP_027_IMG_28.jpg,MUP_027,28,1280,960,standard,Type 1,,,train
+MUP_027_IMG_29.jpg,MUP_027,29,1280,960,standard,Type 1,,,train
+MUP_027_IMG_30.jpg,MUP_027,30,1280,960,standard,Type 1,,,train
+MUP_027_IMG_31.jpg,MUP_027,31,1280,960,standard,Type 1,,,train
+MUP_027_IMG_32.jpg,MUP_027,32,1280,960,standard,Type 1,,,train
+MUP_027_IMG_33.jpg,MUP_027,33,1280,960,standard,Type 1,,,train
+MUP_027_IMG_34.jpg,MUP_027,34,1280,960,standard,Type 1,,,train
+MUP_027_IMG_35.jpg,MUP_027,35,1280,960,standard,Type 1,,,train
+MUP_027_IMG_36.jpg,MUP_027,36,1280,960,standard,Type 1,,,train
+MUP_027_IMG_37.jpg,MUP_027,37,1280,960,standard,Type 1,,,train
+MUP_027_IMG_38.jpg,MUP_027,38,1280,960,standard,Type 1,,,train
+MUP_027_IMG_39.jpg,MUP_027,39,1280,960,standard,Type 1,,,train
+MUP_027_IMG_40.jpg,MUP_027,40,1280,960,standard,Type 1,,,train
+MUP_027_IMG_41.jpg,MUP_027,41,1280,960,standard,Type 1,,,train
+MUP_027_IMG_42.jpg,MUP_027,42,1280,960,standard,Type 1,,,train
+MUP_027_IMG_43.jpg,MUP_027,43,1280,960,standard,Type 1,,,train
+MUP_027_IMG_44.jpg,MUP_027,44,1280,960,standard,Type 1,,,train
+MUP_027_IMG_45.jpg,MUP_027,45,1280,960,standard,Type 1,,,train
+MUP_027_IMG_46.jpg,MUP_027,46,1280,960,standard,Type 1,,,train
+MUP_027_IMG_47.jpg,MUP_027,47,1280,960,standard,Type 1,,,train
+MUP_027_IMG_48.jpg,MUP_027,48,1280,960,standard,Type 1,,,train
+MUP_027_IMG_49.jpg,MUP_027,49,1280,960,standard,Type 1,,,train
+MUP_028_IMG_01.jpg,MUP_028,1,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_02.jpg,MUP_028,2,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_03.jpg,MUP_028,3,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_04.jpg,MUP_028,4,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_05.jpg,MUP_028,5,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_06.jpg,MUP_028,6,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_07.jpg,MUP_028,7,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_08.jpg,MUP_028,8,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_09.jpg,MUP_028,9,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_10.jpg,MUP_028,10,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_11.jpg,MUP_028,11,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_12.jpg,MUP_028,12,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_13.jpg,MUP_028,13,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_14.jpg,MUP_028,14,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_15.jpg,MUP_028,15,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_16.jpg,MUP_028,16,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_17.jpg,MUP_028,17,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_18.jpg,MUP_028,18,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_19.jpg,MUP_028,19,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_20.jpg,MUP_028,20,1280,960,standard,Type 1,,After excision,train
+MUP_028_IMG_21.jpg,MUP_028,21,1280,960,standard,Type 1,,After excision,train
+MUP_029_IMG_01.jpg,MUP_029,1,1280,960,standard,Type 3,,,train
+MUP_029_IMG_02.jpg,MUP_029,2,1280,960,standard,Type 3,,,train
+MUP_029_IMG_03.jpg,MUP_029,3,1280,960,standard,Type 3,,,train
+MUP_029_IMG_04.jpg,MUP_029,4,1280,960,standard,Type 3,,,train
+MUP_029_IMG_05.jpg,MUP_029,5,1280,960,standard,Type 3,,,train
+MUP_029_IMG_06.jpg,MUP_029,6,1280,960,standard,Type 3,,,train
+MUP_029_IMG_07.jpg,MUP_029,7,1280,960,standard,Type 3,,,train
+MUP_029_IMG_08.jpg,MUP_029,8,1280,960,standard,Type 3,,,train
+MUP_030_IMG_01.jpg,MUP_030,1,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_02.jpg,MUP_030,2,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_03.jpg,MUP_030,3,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_04.jpg,MUP_030,4,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_05.jpg,MUP_030,5,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_06.jpg,MUP_030,6,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_07.jpg,MUP_030,7,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_08.jpg,MUP_030,8,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_09.jpg,MUP_030,9,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_10.jpg,MUP_030,10,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_11.jpg,MUP_030,11,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_12.jpg,MUP_030,12,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_13.jpg,MUP_030,13,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_14.jpg,MUP_030,14,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_15.jpg,MUP_030,15,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_16.jpg,MUP_030,16,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_17.jpg,MUP_030,17,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_18.jpg,MUP_030,18,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_19.jpg,MUP_030,19,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_20.jpg,MUP_030,20,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_21.jpg,MUP_030,21,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_22.jpg,MUP_030,22,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_23.jpg,MUP_030,23,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_24.jpg,MUP_030,24,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_25.jpg,MUP_030,25,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_26.jpg,MUP_030,26,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_27.jpg,MUP_030,27,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_28.jpg,MUP_030,28,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_29.jpg,MUP_030,29,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_30.jpg,MUP_030,30,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_31.jpg,MUP_030,31,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_32.jpg,MUP_030,32,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_33.jpg,MUP_030,33,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_34.jpg,MUP_030,34,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_35.jpg,MUP_030,35,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_36.jpg,MUP_030,36,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_37.jpg,MUP_030,37,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_38.jpg,MUP_030,38,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_39.jpg,MUP_030,39,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_40.jpg,MUP_030,40,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_41.jpg,MUP_030,41,1280,960,standard,Type 1,Ovula Nabothi,,train
+MUP_030_IMG_42.jpg,MUP_030,42,1280,960,standard,Type 1,Ovula Nabothi,,train

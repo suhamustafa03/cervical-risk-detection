@@ -1,0 +1,44 @@
+# Database and private records
+*.db
+*.sqlite
+*.sqlite3
+cervical_records.db*
+
+# Uploaded images and generated files
+storage/
+!storage/.gitkeep
+
+# Large training datasets (not needed to run or deploy the app; see data/README.md)
+data/cifar-10-batches-py/
+data/cifar-10-python.tar.gz
+data/21442367/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Model checkpoints (keep local; configure separately for deployment)
+# Uncomment these if you decide to store models outside Git:
+# *.pth
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Local Vercel development and deployment metadata
+.vercel/
+
+# macOS
+.DS_Store
+
+# Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+*.local
+.vercel
+.env*

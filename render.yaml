@@ -1,0 +1,35 @@
+services:
+  - type: web
+    name: cervical-ai-backend
+    runtime: python
+    region: oregon
+    # Starter plan ($7/mo) recommended for PyTorch memory requirements (2GB RAM) and persistent disk support.
+    # Free tier provides 512MB RAM and has tight headroom for dual ResNet-18 models.
+    plan: starter
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: ALLOWED_ORIGINS
+        sync: false
+        # Example: https://your-frontend.vercel.app
+      - key: CORS_ORIGIN_REGEX
+        value: "^https://.*\\.vercel\\.app$"
+      - key: DATABASE_URL
+        sync: false
+        # If using Render Postgres: postgresql://user:password@host/dbname
+        # If using Render Persistent Disk: sqlite:////var/data/cervical_records.db
+      - key: CERVICAL_STORAGE_DIR
+        sync: false
+        # If using Render Persistent Disk: /var/data/storage
+
+    # To enable persistent patient and image storage on Render (Starter plan or above):
+    # 1. Uncomment the disk block below.
+    # 2. Set DATABASE_URL to sqlite:////var/data/cervical_records.db
+    # 3. Set CERVICAL_STORAGE_DIR to /var/data/storage
+    #
+    # disk:
+    #   name: cervical-data
+    #   mountPath: /var/data
+    #   sizeGB: 1
